@@ -40,9 +40,9 @@ Go to root folder, run `python experiment.py`  to start experiment. In command l
 
 ```
 
-python diabetes.py --file_name iris
+python experiment.py --file_name iris
 
-python diabetes.py --file_name diabetes
+python experiment.py --file_name diabetes
 
 python experiment.py --file_name kdd --rho 2 --sample
 
