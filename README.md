@@ -32,7 +32,7 @@ numpy >= 1.15.4
 
 #### How to repeat our experiments
 
-Go to root folder, run `python experiment.py`  to start experiment. In command line, you can specify the <img src="https://latex.codecogs.com/gif.latex?\rho " /> proportionality measure used for local capture algorithm. You can also specify which database you run your experiment with `--file_name` option. (available names `kdd` , `iris` , `diabetes` ). To repeat the three experiments we did, you can run the following three commands,
+Go to root folder, run `python experiment.py`  to start experiment. In command line, you can specify the ![equation](https://latex.codecogs.com/svg.latex?%5Crho)-proportionality measure used for local capture algorithm. You can also specify which database you run your experiment with `--file_name` option. (available names `kdd` , `iris` , `diabetes` ). To repeat the three experiments we did, you can run the following three commands,
 
 
 
